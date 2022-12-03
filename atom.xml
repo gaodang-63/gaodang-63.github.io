@@ -6,7 +6,7 @@
   <link href="https://gaodang-63.github.io/atom.xml" rel="self"/>
   
   <link href="https://gaodang-63.github.io/"/>
-  <updated>2022-12-02T09:34:11.850Z</updated>
+  <updated>2022-12-03T08:23:58.330Z</updated>
   <id>https://gaodang-63.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://gaodang-63.github.io/posts/3610a686.html"/>
+    <id>https://gaodang-63.github.io/posts/3610a686.html</id>
+    <published>2022-12-03T08:21:41.000Z</published>
+    <updated>2022-12-03T08:23:58.330Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hello-hexo"><a href="#hello-hexo" class="headerlink" title="hello hexo"></a>hello hexo</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;hello-hexo&quot;&gt;&lt;a href=&quot;#hello-hexo&quot; class=&quot;headerlink&quot; title=&quot;hello hexo&quot;&gt;&lt;/a&gt;hello hexo&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
