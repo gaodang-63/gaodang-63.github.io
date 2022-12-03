@@ -3,11 +3,11 @@
   <title>杲砀 63</title>
   
   <subtitle>博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://gaodang-63.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://gaodang-63.github.io/"/>
   <updated>2022-12-02T09:34:11.850Z</updated>
-  <id>http://example.com/</id>
+  <id>https://gaodang-63.github.io/</id>
   
   <author>
     <name>63</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://gaodang-63.github.io/posts/4a17b156.html"/>
+    <id>https://gaodang-63.github.io/posts/4a17b156.html</id>
     <published>2022-12-02T07:52:00.606Z</published>
     <updated>2022-12-02T09:34:11.850Z</updated>
     
